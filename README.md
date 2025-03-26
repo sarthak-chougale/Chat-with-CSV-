@@ -1,7 +1,5 @@
 # Project Link
 
-### [https://swapnilbpatil-chat-with-csv.hf.space/](https://swapnilbpatil-chat-with-csv.hf.space/)
-
 
 # Chat with CSV 📊
 
